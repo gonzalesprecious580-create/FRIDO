@@ -1,0 +1,50 @@
+body{
+	 background-image: url('https://scontent.fmnl8-5.fna.fbcdn.net/v/t51.82787-15/613632590_17951888223078667_6732426606527744223_n.webp?stp=dst-jpg_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHR0NjK15nWf12T7WnLgjarEYwx8FYsYfwRjDHwVixh_JoDFiv0U99X0EKKwI7i5N2XMjUQwFdpqEAsgcb4SraZ&_nc_ohc=XjJCl52TPPsQ7kNvwH0NZfP&_nc_oc=AdmDKxxjBLwVE92Kx0SHXXqyFc0mAJIkGIbNyy0WCuO65Hp4PfBJgU9m4nVfL6CRFcw&_nc_zt=23&_nc_ht=scontent.fmnl8-5.fna&_nc_gid=LBWhLnaY3cTDJv5NoqM07Q&oh=00_AfvEhPy9nd9mO7wvsVyoeoZlDhMlukdPtdzADEH_LP5QJg&oe=69932E33');
+     }
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2F2F2F;
+    border: black solid 5px;
+    border-radius: 15px;
+    }	
+h1{ 
+
+    color:pink
+    }	
+	
+a{ 
+   margin-left: 25px;
+   text-decoration: none;
+   color: pink;
+   font-size: 15px;
+   font-family: "Inter", sans-serif;
+   font-weight: bold;
+   transition: 0.55;
+   padding: 5px;
+   }	
+	 
+a:hover{  
+
+   background-color: #B6B6B6;
+   padding: 10px;
+   border-radius:15px;
+   }	
+   
+   
+ul{  
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  }	
+  
+section{
+ text-align: center;
+ background-color: lightpink;
+ border: black solid;
+ border-radius: 20px;
+ padding: 5px;
+ margin: 10px;
+} 
